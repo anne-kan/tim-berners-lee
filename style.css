@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(240, 239, 239, 0.5);
+  font-family: 'OpenSans-Regular.ttf'serif;
+  font-size:18px;
+
+}
+h1 {
+  color: red;
+  margin:0;
+  font-weight:400;
+}
+.invetor {
+  background: #fff;
+  width: 50rem;
+  padding: 3rem;
+  margin: 1rem auto;
+  border-radius: 1.2rem;
+}
+.btn {
+  border-radius: 0.5rem;
+  width: 1rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  background-color:#E64847;
+  color: white;
+  text-align: center;
+}
+h3 {
+  margin:0;
+  font-weight:400;
+
+}
+.social {
+  background: #fff;
+  width: 50rem;
+  padding: 3rem;
+  margin: 1rem auto;
+  border-radius: 1.2rem;
+}
+h4 {
+  margin:0;
+  font-weight:400;
+/
+}
+.movies {
+  background: #fff;
+  width: 50rem;
+  padding: 3rem;
+  margin: 1rem auto;
+  border-radius: 1.2rem;
+}
+/*.img {
+  margin:0;
+  padding: 0;
+}
+p {
+
+}
